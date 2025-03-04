@@ -1,7 +1,7 @@
 - 👋 olá,me Chamo Arinaldo
 - 👀 Começando,a criar projetos
 - 🌱 Ainda aprendendo e estudando muito
-- 💞️ A em busca de Conhecimento sempr
+- 💞️ A em busca de Conhecimento sempre
 
 
 <!---
